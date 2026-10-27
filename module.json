@@ -1,0 +1,12 @@
+{
+  "id": "grid-autoalign",
+  "title": "Grid Auto-Align",
+  "description": "Detects the grid printed on a scene's map image and lines Foundry's grid up with it in one click, across the whole map (fixes grids that match in the middle but drift at the edges).",
+  "version": "1.0.0",
+  "authors": [{ "name": "PsyK2812", "url": "https://github.com/PsyK2812" }],
+  "compatibility": { "minimum": "13", "verified": "14" },
+  "esmodules": ["scripts/main.js"],
+  "url": "https://github.com/PsyK2812/foundry-grid-autoalign",
+  "manifest": "https://github.com/PsyK2812/foundry-grid-autoalign/releases/latest/download/module.json",
+  "download": "https://github.com/PsyK2812/foundry-grid-autoalign/releases/download/v1.0.0/module.zip"
+}
